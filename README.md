@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋 Hi, I'm Aref
 
-<!--
-**Aref-af20/Aref-af20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Backend Developer
 
-Here are some ideas to get you started:
+I'm a **Computer Engineering student** passionate about backend development and building web applications with Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, building real-world projects, and improving my backend development skills.
+
+---
+
+## 🚀 About Me
+
+* 🎓 Computer Engineering Student
+* 🐍 Focused on Python Backend Development
+* 🌐 Interested in Web Development & REST APIs
+* 🐳 Working with Docker and containerized applications
+* 🐧 Working with Linux
+* 📚 Always learning and improving my development skills
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Backend
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge\&logo=django\&logoColor=white)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+* ⚡ FastAPI
+* 🌶️ Flask
+* 🐳 Advanced Docker
+* 🏗️ Backend Architecture
+* 🔌 REST API Development
+
+---
+
+## 🎯 Goals
+
+* Become a strong Python Backend Developer
+* Build production-ready REST APIs
+* Improve my knowledge of software architecture
+* Learn more about scalable backend systems
+* Build and maintain real-world projects
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐️ *Thanks for visiting my profile!*
