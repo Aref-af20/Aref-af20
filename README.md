@@ -66,11 +66,8 @@ I enjoy learning new technologies, building real-world projects, and improving m
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://t.me/aref_af1"><img align="left" src="https://github.com/Aref-af20/Aref-af20/blob/main/icons8-telegram-app-48.png?raw=true" alt="Telegram" /></a>
+
 
 ---
 
