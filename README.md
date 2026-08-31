@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aref
+# 👋 Hi, I'm Aref Afkhami
 
 ### 🐍 Python Backend Developer
 
