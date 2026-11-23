@@ -70,4 +70,4 @@ I enjoy learning new technologies, building real-world projects, and improving m
 <a href="https://www.linkedin.com/in/aref-afkhami/"><img align="left" src="https://github.com/Aref-af20/Aref-af20/blob/main/icons8-linkedin-48.png?raw=true" alt="" /></a>
 <a href="https://www.instagram.com/arefafkhami/"><img align="left" src="https://github.com/Aref-af20/Aref-af20/blob/main/icons8-instagram-48.png?raw=true" alt="Instagram" /></a>
 
-⭐️ *Thanks for visiting my profile!*
+
